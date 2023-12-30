@@ -1,5 +1,5 @@
-bf = "bf4" #of bf4
-ip = '127.0.0.1'   
-port = 47200
-password = "password"
-BanUser = ""  #nickname for debug
+bf = "bf3"  # of bf4
+ip = ''
+port = 47240
+password = ""
+BanUser = ""  # nickname for debug
